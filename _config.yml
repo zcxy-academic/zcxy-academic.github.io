@@ -1,16 +1,15 @@
-
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
+title: Zou Chenxuanyin
+name: Zou Chenxuanyin
 subtitle:  Economist
-email: paul.e.soto@frb.gov
+email: zcxy0218@gmail.com
 description: >
-   Economist
+   Engineer
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://zcxy-academic.github.io/"
+github_username:  zcxy-academic
+disqus_baseurl: "https://zcxy-academic.github.io/"
+disqus_shortname: https-zcxy-academic-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Zou Chenxuanyin"
 
 
 
@@ -41,7 +40,7 @@ social:
   - name: GitHub
     icon: github
     username: pesoto
-    url: https://github.com/pesoto
+    url: https://github.com/zcxy-academic
     desc: Fork me on GitHub
     share: false
 
