@@ -1,7 +1,7 @@
 # Site settings
 title: Zou Chenxuanyin
 name: Zou Chenxuanyin
-subtitle:  Economist
+subtitle:  Engineer
 email: zcxy0218@gmail.com
 description: >
    Engineer
@@ -39,7 +39,7 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
+    username: zcxy-academic
     url: https://github.com/zcxy-academic
     desc: Fork me on GitHub
     share: false
