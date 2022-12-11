@@ -44,9 +44,9 @@ social:
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Paul E. Soto
-    url: https://www.linkedin.cn/incareer/in/ACoAAD_KTMMBfQi4ZkMsI5TRumAg6UB_Yqxi77g
-    desc: Connect with me on LinkedIn
+  - name: ResearchGate
+    icon: researchgate
+    username: Chenxuanyin Zou
+    url: https://www.researchgate.net/profile/Chenxuanyin-Zou
+    desc: Connect with me on ResearchGate
     share: true
