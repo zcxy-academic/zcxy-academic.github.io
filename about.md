@@ -14,5 +14,6 @@ Since I was enrolled in the experimental class of the fourth, the best one at NE
  at the Federal Reserve Board. I also enjoy teaching and am an adjunct professor for Text Mining for Economics and Finance at the University of Maryland in the Robert H. Smith School of Business. Previously, from 2018-2022, I was a financial economist at the Federal Deposit Insurance Corporate (FDIC) where I conducted banking research and developed models to support FDIC operations. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona Graduate School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. I spent time working alongside other central banks through an 8 month visit in Germany at the Deutsche Bundesbank and ongoing research projects with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various investment funds. Outside of economics and finance, I like learning about natural language processing, innovations in machine learning, Brazilian Jiu Jitsu, and improv comedy.   
 <br>
 <br>
-Download my <a href="https://www.overleaf.com/download/project/630d7ac948a8d6cf8463d2ff/build/1855e5aad61-f8f58f4f65d5aaff/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-f-2mlw&enable_pdf_caching=true&popupDownload=true">CV</a><br>
+Download my <body>        <div id="CV"></div> </body>
+<br>
 <br>
