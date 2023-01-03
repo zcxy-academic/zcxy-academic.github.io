@@ -9,7 +9,7 @@ In my undergraduate, I was keen on mathematical modeling and have attended natio
 
 Since I was enrolled in the experimental class of the fourth, the best one at NEU. I was influenced a lot by this group of strivers. I was going to find a job before. However, their enthusiasm for learning, strong cohesion, the slogan to be excellent, and predecessors' achievements stimulate me for higher pursuits. People always say that the final death is when the last memory about you fades. So I intend to do some extraordinary and meaningful things.
 
-In 2020, I was recommended to be an Academic Master in the State Key Laboratory of Synthetical Automation for Process Industries. Under the guidance of my supervisor Jun Fu, I continued the research which was his in MIT on the path-constraint optimal control problems of nonlinear dynamic systems. Moreover, I am currently studying the novel methods without advanced parameters for constrained multiobjective optimization problems and trying to integrate it the distributed algorithms. In the future, there will be some application to some industrial preocesses.
+In 2020, I was recommended to be an Academic Master in the State Key Laboratory of Synthetical Automation for Process Industries. Under the guidance of my supervisor Jun Fu, my research focuses on dynamic multiobjective optimization for optimal control problems of nonlinear systems with path constraints. Moreover, I am currently studying novel methods without a priori parameters for constrained multiobjective optimization problems and trying to integrate them with distributed algorithms. Moreover, there will be some applications for industrial processes.
 
 
 <br>
