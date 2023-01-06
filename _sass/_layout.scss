@@ -447,12 +447,15 @@ pre code.hljs {
 	*	Site avatar (left)
 	*/
 	.site-avatar {
+
+		.avatar{
 		vertical-align: middle;
 		width: 100px;
 		height: auto;
 		position: relative;
 		  overflow: hidden;
 		border-radius: 50%;
+		}
 	  }
 	  
 
