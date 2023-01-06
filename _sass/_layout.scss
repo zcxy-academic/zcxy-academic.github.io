@@ -90,14 +90,14 @@ pre code.hljs {
 	text-align: center;
 	&.has-cover {
 		color: $white;
-		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
+		text-shadow: 0 2px 1px rgba(11, 10, 10, 0.756) !important;
 		background-position: 50% 50%;
 		background-size: cover;
 		.title {
 			font-size: modular-scale(6);
 		}
 		.subtitle, .info {
-			font-size: modular-scale(1);
+			font-size: modular-scale(10);
 		}
 		.attribution{
 			position: relative;
