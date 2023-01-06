@@ -39,6 +39,19 @@ pre code.hljs {
 	font-size: modular-scale(-1);
 }
 
+	/*
+	*	Site avatar (left)
+	*/
+	.avatar {
+		vertical-align: middle;
+		width: 100px;
+		height: auto;
+		position: relative;
+		  overflow: hidden;
+		border-radius: 50%;
+	  }
+	  
+
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
@@ -400,6 +413,8 @@ pre code.hljs {
  		}
 	}
 }
+
+
 
 /*
 *	Footer
