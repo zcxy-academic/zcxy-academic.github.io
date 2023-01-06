@@ -6,6 +6,12 @@ Welcome! My name is Zou Chenxuanyin, and I am a graduate student who comprehensi
 
 My research interests focus on multiobjective optimization, semi-infinite programming, and optimal control. I am devoted to handling multiobjective optimization problems with inequality path constraints in non-linear dynamic systems. Furthermore, I have a broad knowledge of multiobjective methods. I am currently trying to incorporate parallel and distributed computation into my research to intensify the power of algorithms to solve large-scale and complicated problems and improve efficiency. Feel free to look at https://zcxy-academic.github.io/research to learn more!
 
+
+## Education
+* MPhil in Control Theory and Control  Engineering, State Key Laboratory of Synthetical Automation for Process Industries (NEU), 2020-present.
+* B.S. in Automation, Northeastern University, 2016-2020
+
+
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise modeling industrial processes. 
 * Strong optimization fundations with a good sense of teamwork.
