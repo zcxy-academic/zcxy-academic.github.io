@@ -427,6 +427,21 @@ pre code.hljs {
 	.footer-heading {
 
 	}
+
+	/*
+	*	Site avatar (left)
+	*/
+	.avatar {
+		vertical-align: middle;
+		width: 100px;
+		height: auto;
+		position: relative;
+		  overflow: hidden;
+		border-radius: 50%;
+	  }
+	  
+
+
 	/*
 	*	Site Navigation (left)
 	*/
