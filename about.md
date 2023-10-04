@@ -14,7 +14,7 @@ In 2020, I was recommended to be an Academic Master in the Laboratory of Synthet
  Under the guidance of my supervisor Jun Fu, my research focuses on dynamic multiobjective optimization for optimal control problems of nonlinear systems with path constraints. Moreover, I am currently studying novel methods without a priori parameters for constrained multiobjective optimization problems and trying to integrate them with distributed algorithms. Moreover, there will be some applications for industrial processes.
 
 <br>
-Download my <a href="https://github.com/zcxy-academic/zcxy-academic.github.io/raw/master/Zou Chenxuanyin's%20CV.pdf">CV</a><br>
+Download my <a href="https://github.com/zcxy-academic/zcxy-academic.github.io/blob/master/Zou%20Chenxuanyin's%20CV.pdf">CV</a><br>
 <br>
 
 
