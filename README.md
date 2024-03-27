@@ -1,5 +1,5 @@
 # Chenxuanyin Zou
-This is Chenxuanyin Zou's personal [homepage](https://zcxyacademic.com/).
+This is Chenxuanyin Zou's personal [homepage](https://zcxy-academic.github.io/).
 
 ## Introduction
 Welcome! My name is Zou Chenxuanyin, and I am a Master's student (ranking first) in the Laboratory of Synthetical Automation for Process Industries at Northeastern University in Liaoning Province with a Master's degree on July 5, 2023. I am going to be a Ph.D. student at the University of British Columbia on January 1, 2024.
